@@ -209,6 +209,8 @@ its `counter` field is being incremented on each call as expected.
 
 Congratulations! You have just developed a RESTful web service with Spring.
 
+codoki metadata context test - java
+
 == See Also
 
 The following guides may also be helpful:
